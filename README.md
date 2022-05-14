@@ -1,4 +1,4 @@
-# fly-web2
+# fly-web
 
 ## Project setup
 ```
